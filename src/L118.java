@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+//Pascal's Triangle
 public class L118 {
     public static void main(String[] args) {
         int numRows = 5;
