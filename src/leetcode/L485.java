@@ -1,3 +1,5 @@
+package leetcode;
+
 public class L485 {
     public static void main(String[] args) {
         int[] input = {1, 1,0,1,1,1};

@@ -1,3 +1,5 @@
+package leetcode;
+
 public class L1052 {
     public static void main(String[] args) {
         //C - 138

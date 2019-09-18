@@ -1,3 +1,5 @@
+package leetcode;
+
 public class S14 {
     public static void main(String[] args) {
         String[] str = {"ca","caa", "caaaa"};

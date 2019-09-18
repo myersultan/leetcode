@@ -1,3 +1,4 @@
+package leetcode;
 
 public class S747 {
     public static void main(String[] args) {

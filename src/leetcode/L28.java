@@ -1,3 +1,5 @@
+package leetcode;
+
 public class L28 {
     public static void main(String[] args) {
         System.out.println(strStr("aaabaa", "ba"));

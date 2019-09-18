@@ -1,3 +1,5 @@
+package leetcode;
+
 public class L67 {
     public static void main(String[] args) {
         String a = "11";
